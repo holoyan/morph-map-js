@@ -1,7 +1,7 @@
 {
   "name": "@holoyan/morph-map-js",
   "description": "Morph map class",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "node": ">=18.16.0"
   },
