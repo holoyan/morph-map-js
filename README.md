@@ -14,7 +14,7 @@ The Solo purpose of this package is to provide a morph map class that can be use
 ## Installation
 
 ```bash
-  npm i @holoyan/morph-map
+  npm i @holoyan/morph-map-js
   
 ```
 
