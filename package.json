@@ -1,7 +1,7 @@
 {
   "name": "@holoyan/morph-map-js",
   "description": "Morph map class",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "node": ">=18.16.0"
   },
@@ -55,9 +55,6 @@
     "prettier": "^3.3.2",
     "ts-node-maintained": "^10.9.4",
     "typescript": "^5.4.5"
-  },
-  "peerDependencies": {
-    "@adonisjs/core": "^6.2.0"
   },
   "publishConfig": {
     "access": "public",
